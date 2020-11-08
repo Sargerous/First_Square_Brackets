@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "First_Square_Brackets/1.0.0": {
+        "runtime": {
+          "First_Square_Brackets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First_Square_Brackets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
